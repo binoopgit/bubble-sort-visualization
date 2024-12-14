@@ -92,4 +92,4 @@ You can change the number of elements in the list by modifying the line:
 You can also adjust the speed of the visualization by modifying the plt.pause() value.
 
 ## License
-This project is open source and available under the [MIT](https://choosealicense.com/licenses/mit/).# bubble-sort-visualization
+This project is open source and available under the [MIT](https://choosealicense.com/licenses/mit/).
